@@ -13,6 +13,11 @@
 
 ### Инструкция по запуску
 
+Перед началом работы убедитесь, что на вашем компьютере установлены:
+
+-   **Node.js** (версия 18 или выше)
+-   **npm** (обычно устанавливается вместе с Node.js)
+
 1. Клонируем репозиторий
 ```sh
 git clone https://github.com/AndVlas/Form-Generator-test-work-Studiya-Artemiya-Lebedeva.git
