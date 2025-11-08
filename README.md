@@ -29,3 +29,9 @@ npm install
 ```sh
 npm run dev
 ```
+
+4. Переходим по ссылке в браузере
+
+```sh
+http://localhost:5173
+```
